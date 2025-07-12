@@ -1,3 +1,9 @@
+##########################################################################
+# HOMEWORK 4
+# Shabnam Shahrezaei
+# Spring 2025
+##########################################################################
+
 # Load necessary libraries
 library(ggplot2)
 library(dplyr)
